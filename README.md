@@ -39,7 +39,7 @@ use Zalazdi\LaravelImap\Mailbox;
 $client = new Client();
 $client->connect();
 
-$mailboxes = $client->getMailboxes();
+$mailboxes = $client->getFolders();
 foreach($mailboxes as $mailbox) {
     dump($mailbox->getMessages());
 }
