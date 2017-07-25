@@ -1,9 +1,9 @@
 <?php
 
-namespace Zalazdi\LaravelImap\Facades;
+namespace Frnwtr\LaravelImap\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Zalazdi\LaravelImap\ClientManager;
+use Frnwtr\LaravelImap\ClientManager;
 
 class Client extends Facade
 {

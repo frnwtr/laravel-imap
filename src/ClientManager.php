@@ -1,6 +1,6 @@
 <?php
 
-namespace Zalazdi\LaravelImap;
+namespace Frnwtr\LaravelImap;
 
 class ClientManager
 {
@@ -27,7 +27,7 @@ class ClientManager
      * Resolve a account instance.
      *
      * @param  string  $name
-     * @return \Zalazdi\LaravelImap\Client
+     * @return \Frnwtr\LaravelImap\Client
      */
     public function account($name = null)
     {
@@ -47,7 +47,7 @@ class ClientManager
      * Resolve a account.
      *
      * @param  string  $name
-     * @return \Zalazdi\LaravelImap\Client
+     * @return \Frnwtr\LaravelImap\Client
      */
     protected function resolve($name)
     {

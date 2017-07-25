@@ -1,10 +1,10 @@
 <?php
 
-namespace Zalazdi\LaravelImap\Providers;
+namespace Frnwtr\LaravelImap\Providers;
 
 use Illuminate\Support\ServiceProvider;
-use Zalazdi\LaravelImap\Client;
-use Zalazdi\LaravelImap\ClientManager;
+use Frnwtr\LaravelImap\Client;
+use Frnwtr\LaravelImap\ClientManager;
 
 class LaravelServiceProvider extends ServiceProvider
 {

@@ -6,7 +6,7 @@
     "imap",
     "mail"
   ],
-  "homepage": "https://github.com/Zalazdi/LaravelImap",
+  "homepage": "https://github.com/Frnwtr/LaravelImap",
   "license": "MIT",
   "authors": [
     {
@@ -20,7 +20,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Zalazdi\\LaravelImap\\": "src"
+      "Frnwtr\\LaravelImap\\": "src"
     }
   },
   "extra": {

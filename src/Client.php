@@ -1,11 +1,11 @@
 <?php
 
-	namespace Zalazdi\LaravelImap;
+	namespace Frnwtr\LaravelImap;
 
 	use Illuminate\Support\Facades\Config;
 
-	use Zalazdi\LaravelImap\Exceptions\ConnectionFailedException;
-	use Zalazdi\LaravelImap\Exceptions\GetMessagesFailedException;
+	use Frnwtr\LaravelImap\Exceptions\ConnectionFailedException;
+	use Frnwtr\LaravelImap\Exceptions\GetMessagesFailedException;
 
 	class Client
 	{

@@ -1,6 +1,6 @@
 <?php
 
-namespace Zalazdi\LaravelImap\Exceptions;
+namespace Frnwtr\LaravelImap\Exceptions;
 
 use \Exception;
 
