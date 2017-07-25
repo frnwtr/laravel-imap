@@ -1,5 +1,5 @@
 {
-  "name": "zalazdi/laravel-imap",
+  "name": "frnwtr/laravel-imap",
   "description": "Laravel 5 IMAP client.",
   "keywords": [
     "laravel",
@@ -10,8 +10,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Krzysztof Graman",
-      "email": "zalazdi@gmail.com"
+      "name": "Walter Franchetti",
+      "email": "walter.franchetti@gmail.com"
     }
   ],
   "require": {
